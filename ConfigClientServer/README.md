@@ -1,0 +1,1 @@
+@EnableConfigServer is the annotation which is used on Config Server Application.
