@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: 08-01-spring-cloud-config-server-start
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: user
+Implementation-Vendor-Id: com.way2learnonline
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/08-01-spring-cloud-config-server-start
+Created-By: Maven Integration for Eclipse
+
